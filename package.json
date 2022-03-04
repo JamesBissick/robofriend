@@ -1,6 +1,7 @@
 {
   "name": "monster-rolodex",
   "homepage": "https://jamesbissick.github.io/robofriend",
+  "license": "MIT",
   "private": true,
   "version": "0.0.0",
   "scripts": {
